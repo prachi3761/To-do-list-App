@@ -22,15 +22,3 @@ CSS3 – Styling and responsive design
 
 JavaScript – DOM manipulation and functionality
 
-Usage
-
-Clone the repository:
-
-git clone <repository-url>
-
-
-Open index.html in your browser.
-
-Type a task in the input box and click Add Task.
-
-Click Delete button to remove a task.
